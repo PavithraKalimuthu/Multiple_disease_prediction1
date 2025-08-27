@@ -4,7 +4,7 @@ This Streamlit-based web application allows users to predict the likelihood of *
 
 ## 🚀 Demo
 
-Live App:
+Live App:https://multiplediseaseprediction-abcd123.streamlit.app
 
 
 ---
